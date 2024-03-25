@@ -9,7 +9,8 @@ namespace GitHubExample3
 
 		private void button1_Click(object sender, EventArgs e)
 		{
-			MessageBox.Show("Hello World");
+			MessageBox.Show("Mensaje1");
+			MessageBox.Show("Mensaje2");
 		}
 	}
 }
