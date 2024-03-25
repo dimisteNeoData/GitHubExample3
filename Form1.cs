@@ -10,6 +10,12 @@ namespace GitHubExample3
 		private void button1_Click(object sender, EventArgs e)
 		{
 			 MessageBox.Show("soy botón de Marc");
+			 MessageBox.Show("soy mensaje de Dimitar");
+			 MessageBox.Show("Mensaje2");
+			 MessageBox.Show("Mensaje2");
+			 MessageBox.Show("Mensaje2");
+			 MessageBox.Show("Mensaje2");
+			 MessageBox.Show("Mensaje2");
 		}
 	}
 }
